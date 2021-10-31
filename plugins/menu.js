@@ -17,11 +17,11 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `⛦━━━━━✨️Ajmal and Achu✨️━━━━━⛦
+    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `⛦━━━━━✨️MUNNA✨️━━━━━⛦
 
 
-𝐇𝐞𝐥𝐥𝐨👋 𝐈 𝐚𝐦 𝐚 Ajmal and Achu's 𝐛𝐨𝐭.
-            *Nandhutty*
+𝐇𝐞𝐥𝐥𝐨👋 𝐈 𝐚𝐦 𝐚 MUNNA's 𝐛𝐨𝐭.
+            *Maalutty*
 
 ■□■□■□■□■□■□■□■□■□■□
 ♕ *𝙈𝙚𝙙𝙞𝙖 𝘾𝙤𝙢𝙢𝙖𝙣𝙙𝙨* ♕
@@ -78,7 +78,7 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
 ➡️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -wallpaper
 🍙𝙐𝙨𝙚➜ It sends you random wallpaper.
 
-■□■□■□■□■□𝙉𝘼𝙉𝘿𝙃𝙐𝙏𝙏𝙔□■□■□■□
+■□■□■□■□■□𝙈𝘼𝘼𝙇𝙐𝙏𝙏𝙔□■□■□■□
 ♟ *𝙁𝙪𝙣 𝘾𝙤𝙢𝙢𝙖𝙣𝙙𝙨* ♟
 
 ➡️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -joke 
@@ -120,8 +120,8 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
 
 ➡️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜  -anime <text>
 🍙𝙐𝙨𝙚➜  Gives you info about anime.
-⚠️anime Nandhutty
-■□■□■□■□■𝙉𝘼𝙉𝘿𝙃𝙐𝙏𝙏𝙔□■□■□■□■□
+⚠️anime Maalutty
+■□■□■□■□■𝙈𝘼𝘼𝙇𝙐𝙏𝙏𝙔□■□■□■□■□
 ♝ *𝙎𝙩𝙞𝙘𝙠𝙚𝙧 𝘾𝙤𝙢𝙢𝙖𝙣𝙙𝙨* ♝
 
 ➡️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -sticker 
@@ -132,10 +132,10 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
 
 ➡️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -attp <text>
 🍙𝙐𝙨𝙚➜ Converts text into glowing sticker.
-⚠️ex  attp Nandhutty
+⚠️ex  attp Maalutty
 ■□■□■□■□■□■□■□■□■□■□
-═════💢𝙉𝘼𝙉𝘿𝙃𝙐𝙏𝙏𝙔💢═════
-▣▣▣▣▣▣▣▣▣AJMAL AND ACHU▣▣▣▣▣
+═════💢𝙈𝘼𝘼𝙇𝙐𝙏𝙏𝙔💢═════
+▣▣▣▣▣▣▣▣▣NIJIN▣▣▣▣▣
 
 `}) 
 
